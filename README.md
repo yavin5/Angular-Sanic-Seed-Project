@@ -1,8 +1,11 @@
-<img src="https://raw.githubusercontent.com/nirgn975/Angular-Django-Seed-Project/master/angular-django-seed-project.png" />
+<img src="https://raw.githubusercontent.com/yavin5/djangular-seed/master/angular-django-seed-project.png" />
 
-[![license][license-image]][license-url] [![GitHub release][github-image]][github-url] [![Build Status][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![Dependency Status][dependencyci-image]][dependencyci-url] [![Codacy Badge][codacy-image]][codacy-url] [![Maintenance][maintenance-image]][maintenance-url] [![Donate][donate-image]][donate-url]
+[![license][license-image]][license-url] [![GitHub release][github-image]][github-url] [![Build Status][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![Dependency Status][dependencyci-image]][dependencyci-url] [![Codacy Badge][codacy-image]][codacy-url] [![Donate][donate-image]][donate-url]
 
 This repo is a production ready seed project. The app shows a list of users.
+
+This fork differs from its parent by:
+- Re-adding Dockerfiles
 
 ## Structure
 
@@ -124,18 +127,18 @@ The backups are saved at `/var/backups/postgres` at the host machine via a share
 Just fork and do a pull request (;
 
 [license-image]: https://img.shields.io/badge/license-ISC-blue.svg
-[license-url]: https://github.com/nirgn975/Angular-Django-Seed-Project/blob/master/LICENSE
-[github-image]: https://img.shields.io/github/release/nirgn975/Angular-Django-Seed-Project.svg
-[github-url]: https://github.com/nirgn975/Angular-Django-Seed-Project/releases
-[travis-image]: https://travis-ci.org/nirgn975/Angular-Django-Seed-Project.svg?branch=master
-[travis-url]: https://travis-ci.org/nirgn975/Angular-Django-Seed-Project
-[codecov-image]: https://codecov.io/gh/nirgn975/Angular-Django-Seed-Project/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/nirgn975/Angular-Django-Seed-Project
-[dependencyci-image]: https://dependencyci.com/github/nirgn975/Angular-Django-Seed-Project/badge
-[dependencyci-url]: https://dependencyci.com/github/nirgn975/Angular-Django-Seed-Project
+[license-url]: https://github.com/yavin5/djangular-seed/blob/master/LICENSE
+[github-image]: https://img.shields.io/github/release/yavin5/Angular-Django-Seed-Project.svg
+[github-url]: https://github.com/yavin5/djangular-seed/releases
+[travis-image]: https://travis-ci.org/yavin5/djangular-seed.svg?branch=master
+[travis-url]: https://travis-ci.org/yavin5/djangular-seed
+[codecov-image]: https://codecov.io/gh/yavin5/djangular-seed/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/yavin5/djangular-seed
+[dependencyci-image]: https://dependencyci.com/github/yavin5/djangular-seed/badge
+[dependencyci-url]: https://dependencyci.com/github/yavin5/djangular-seed
 [codacy-image]: https://api.codacy.com/project/badge/Grade/cdf4939e98804872b377a4120a4f4571
-[codacy-url]: https://www.codacy.com/app/nirgn975/Angular-Django-Seed-Project?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nirgn975/Angular-Django-Seed-Project&amp;utm_campaign=Badge_Grade
-[maintenance-image]: https://img.shields.io/maintenance/yes/2017.svg
-[maintenance-url]: https://github.com/nirgn975
+[codacy-url]: https://www.codacy.com/app/yavin5/djangular-seed?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yavin5/djangular-seed&amp;utm_campaign=Badge_Grade
+[maintenance-image]: https://img.shields.io/maintenance/yes/2018.svg
+[maintenance-url]: https://github.com/yavin5
 [donate-image]: https://img.shields.io/badge/PayPal-Donate-lightgrey.svg
-[donate-url]: https://www.paypal.me/nirgn/2
+[donate-url]: https://www.paypal.me/yavin5
